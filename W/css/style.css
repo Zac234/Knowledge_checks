@@ -34,3 +34,10 @@
     }
 
 }
+@media screen and (min-width:1000px) {
+    #page_header{
+        background-color: deeppink;
+        color: aqua;
+    }
+    
+}
